@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./styles/index.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-    <title><?= $title ?: 'Camino Maquette' ?></title>
+    <title><?= $title ?: 'DashBoard' ?></title>
 </head>
 
 <body>

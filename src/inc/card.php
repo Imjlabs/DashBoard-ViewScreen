@@ -13,7 +13,7 @@ if (isset($_POST['title-' . $id])) {
         <div class="subtitle">Boite de gestion</div>
     </div>
     <form method="post" class="middle">
-        <div class="title">Titre de l'element <?= $id ?: '-' ?></div>
+        <div class="title">Titre de l'élement <?= $id ?: '-' ?></div>
         <input type="text" name="title-<?= $id ?>" value="<?= $nom ?>" id="" />
     </form>
     <div class=" bottom">
